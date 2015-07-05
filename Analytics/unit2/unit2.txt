@@ -1,0 +1,1 @@
+max(abs(elntraTest$ElantraSales - predTest))
